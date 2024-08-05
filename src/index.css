@@ -13,3 +13,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+header .banner-text h1 {
+  font-size: 48px;
+  width: 100%;
+}
+
+header .banner-text h3 {
+  margin-top: 48px;
+  width: fit-content;
+}
+
+.job-description{
+  list-style: disc;
+  margin-left: 48px;
+}
+.skills {
+  width: 400px;
+}
+
+.skills li{ 
+  margin-left: 24px;
+
+}
